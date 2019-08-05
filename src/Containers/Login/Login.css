@@ -1,0 +1,29 @@
+.jumbotron{
+    background-color: #91022E;
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 15px;
+    height: 400px;
+    padding: 60px;
+    margin-top: 100px;
+}
+
+
+.form-control{
+    margin-top: 10px;
+    background-color: transparent;
+    color: black;
+}
+.btn{
+    color: white;
+    margin-top: 25px;
+    font-family: 'Poppins';
+    opacity: 0.7;
+    width: 60%;
+}
+.btn:hover{
+    color: black;
+    border-width: 1;
+    border-color: '#0000';
+}

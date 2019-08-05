@@ -1,0 +1,45 @@
+.box{
+    width: 1000px;
+    height: 600px;
+    align-self: stretch;
+    background-color: #91022E;
+    margin: 0 auto;
+    text-align: center;    
+    border-top-right-radius: 0px;
+    
+}
+.buttons{
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+h1{
+    color: white;
+}
+.scroll{
+    overflow-y: scroll;
+    width: 400px;
+    height: 400px;
+    border-radius: 15px;
+}
+
+.result{
+    height: 450px; /* Magic here */
+    width: 900px;
+    border: 1px solid white;
+    margin: 0 auto;
+    margin-top: 50px;
+    overflow-y: scroll;
+    background-color: '#f7f7f7';
+}
+.loader{
+    height: 450px; /* Magic here */
+    width: 900px;
+    border: 1px solid white;
+    margin: 0 auto;
+    margin-top: 50px;
+    overflow-y: scroll;
+    background-color: '#f7f7f7';
+}

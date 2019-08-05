@@ -1,0 +1,14 @@
+.drop{
+    margin-top:  100px;
+}
+
+.results{
+    width: 400px;
+    color: whitesmoke;
+    height: 250px;
+    border: 1px solid whitesmoke;
+    margin: 0 auto;
+    border-radius: 20px;
+    margin-bottom: 15px;
+
+}
